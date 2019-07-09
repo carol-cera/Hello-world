@@ -1,4 +1,4 @@
 # Hello-world
 Just another repository
-_Carol here, fargeting it all_ 
-_Learning afresh from personal challenge_ 
+-Carol here, forgeting it all_ 
+Learning afresh from personal challenge_ 
